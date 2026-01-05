@@ -1,0 +1,10 @@
+name: StoreiiMC
+version: 1.0
+main: net.xyressa.storeiiMC.StoreiiMC
+api-version: 1.21
+authors: [X3r0Day]
+commands:
+  mcfs:
+    description: Control the file system
+    usage: /mcfs <setroot|import|list|delete|purge>
+    permission: storeiimc.admin
