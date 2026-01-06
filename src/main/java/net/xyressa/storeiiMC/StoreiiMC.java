@@ -21,9 +21,9 @@ public final class StoreiiMC extends JavaPlugin {
     @Override
     public void onEnable() {
         // Setup Config
-        getConfig().addDefault("limits.max-drives-per-player", 3);
-        getConfig().addDefault("limits.max-nodes-per-drive", 1);
-        getConfig().addDefault("limits.max-file-size-mb", 50);
+        getConfig().addDefault("limits.max-drives-per-player", 1); // Drive per player
+        getConfig().addDefault("limits.max-nodes-per-drive", 1); // Node per drive
+        getConfig().addDefault("limits.max-file-size-mb", 1024); // Per-File max size
         getConfig().options().copyDefaults(true);
         saveConfig();
 
