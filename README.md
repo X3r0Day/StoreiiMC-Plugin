@@ -4,7 +4,7 @@
 
 **Cloud Storage... inside a Minecraft Chest. Yeah, really.**
 
-### StoreiMC is a Plugin for PaperMC :3
+### StoreiiMC is a Plugin for PaperMC :3
 
 StoreiiMC turns specific chests in your world into secure, web-accessible "Drives." You can drag-and-drop files from your browser into a chest, edit text files live, and stream music, all stored entirely within Minecraft's NBT data (Maps inside Shulkers).
 
