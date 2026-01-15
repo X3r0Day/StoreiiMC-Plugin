@@ -43,7 +43,7 @@ Built because curiosity wouldn’t let me stop.
 
 ## Quick Start
 
-1.  **Setup:** Drop `StoreiiMC.jar` into your `/plugins` folder.
+1.  **Setup:** Download plugin from here [storeiimc-plugin](https://modrinth.com/plugin/stoeriimc-plugin) into your `/plugins` folder.
 2.  **Run:** Start the server. The web server starts on port `8080` by default.
 3.  **Create a Drive:**
     *   Place a Chest.
