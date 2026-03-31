@@ -117,6 +117,10 @@ If you modify this code or integrate it into your own project, you **must**:
 1.  Keep the original copyright notice in the source files.
 2.  Include a link back to this repository in your documentation or README.
 
+"THIS CODE IS VERY READABLE"
+"THIS USER HAS CONTRIBUTED TO: https://github.com/torvalds/linux"
+"THIS USER HAS CONTRIBUTED TO: https://github.com/danielmiessler/seclists"
+
 **Recommended Attribution Format:**
 > *"Based on StoreiiMC-Plugin by X3r0Day."*
 
